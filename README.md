@@ -1,6 +1,6 @@
 # RestaurantMenu
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a Pet Project that im using to study and learn Vue.Js and other related dependencies.
 
 ## Recommended IDE Setup
 
